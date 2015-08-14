@@ -1,0 +1,35 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="11">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1072" startPos="1397" endPos="1397" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\Websites\TIH\application\controllers\site.php">
+                <Fold line="4" />
+                <Fold line="14" />
+                <Fold line="21" />
+                <Fold line="48" />
+                <Fold line="114" />
+                <Fold line="118" />
+                <Fold line="169" />
+                <Fold line="202" />
+                <Fold line="215" />
+                <Fold line="227" />
+                <Fold line="232" />
+                <Fold line="258" />
+                <Fold line="304" />
+            </File>
+            <File firstVisibleLine="47" xOffset="0" scrollWidth="592" startPos="1848" endPos="1848" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\Websites\TIH\application\models\model_users.php" />
+            <File firstVisibleLine="0" xOffset="272" scrollWidth="1069" startPos="685" endPos="685" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\Websites\TIH\application\models\model_content.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1304" startPos="600" endPos="600" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\Websites\TIH\application\views\view_content.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="808" startPos="188" endPos="76" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\Websites\TIH\application\views\view_user.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="800" startPos="407" endPos="407" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\Websites\TIH\application\views\site_sidebar.php" />
+            <File firstVisibleLine="36" xOffset="0" scrollWidth="312" startPos="801" endPos="801" selMode="0" lang="CSS" encoding="-1" filename="C:\xampp\htdocs\Websites\TIH\styles\TIH_styles.css" />
+            <File firstVisibleLine="0" xOffset="40" scrollWidth="1096" startPos="684" endPos="684" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\Websites\TIH\application\views\site_header.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1304" startPos="21" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\Websites\TIH\application\views\view_home.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="808" startPos="74" endPos="26" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\Websites\TIH\application\views\view_upload.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="928" startPos="364" endPos="364" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\Websites\TIH\application\views\view_view.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="776" startPos="279" endPos="279" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\Websites\TIH\application\views\view_community.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="840" startPos="406" endPos="406" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\Websites\TIH\application\models\model_upload.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="912" startPos="552" endPos="552" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\Websites\TIH\application\views\view_login.php" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
